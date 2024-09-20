@@ -14,3 +14,8 @@ zrc: new sentence
 
 zrc: over 
 
+qcy：I
+
+qcy：Love
+
+qcy：sjtu
