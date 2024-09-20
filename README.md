@@ -19,3 +19,9 @@ qcy：I
 qcy：Love
 
 qcy：sjtu
+
+qcy：Shanghai
+
+qcy：Jiao Tong
+
+qcy: University
