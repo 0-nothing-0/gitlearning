@@ -14,6 +14,19 @@ zrc: new sentence
 
 zrc: over 
 
+## qcy
+qcy：I
+
+qcy：Love
+
+qcy：sjtu
+
+qcy：Shanghai
+
+qcy：Jiao Tong
+
+qcy: University
+
 ## hhx
 
 hhx: 1
